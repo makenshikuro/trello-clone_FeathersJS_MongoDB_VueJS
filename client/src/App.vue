@@ -36,7 +36,11 @@
         <v-icon>web</v-icon>
       </v-btn>
       <v-btn icon @click.stop="fixed = !fixed">
+<<<<<<< HEAD
         <v-icon>remove</v-icon>
+=======
+        <v-icon>web</v-icon>
+>>>>>>> 4cdc8645e1c8fa2d35e776d1bcf1c99ab6ae1f7f
       </v-btn>
       <v-toolbar-title v-text="title"></v-toolbar-title>
       <v-spacer></v-spacer>
